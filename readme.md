@@ -4,4 +4,4 @@ This is an example readme file for the MOD3 lecture.
 The current date is 21.10.2025
 
 Please add your comment below:
-New comment here. 
+The current time is 16:03h.
